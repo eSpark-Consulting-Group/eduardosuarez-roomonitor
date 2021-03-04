@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=3V3 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=OUT_MIC Pin=U1-4
+Added Pin To Net: NetName=SDA_ Pin=U10-1
+Added Pin To Net: NetName=GND Pin=U10-2
+Added Pin To Net: NetName=3V3 Pin=U10-5
+Added Pin To Net: NetName=SCL_ Pin=U10-6
+Added Pin To Net: NetName=GND Pin=U10-7
+Added Member To Class: ClassName=U_Audio_Section Member=Component U1 SPU0410HR5H-PB
+Added Member To Class: ClassName=U_Sensor_Section Member=Component U10 SI7021-A20-GM1R

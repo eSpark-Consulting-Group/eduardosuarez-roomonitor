@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=VBUS Pin=SB1-1
-Added Pin To Net: NetName=VBUS Pin=CF4-1
-Added Pin To Net: NetName=VBUS Pin=CF7-1
-Added Pin To Net: NetName=VBUS Pin=DF1-2
-Added Pin To Net: NetName=VBUS Pin=RF19-1
-Added Member To Class: ClassName=U_Connector_Section Member=Component J7 Terminal Block 2POS

@@ -2,75 +2,41 @@
 FileName = Audio_Meter_V4.5.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Paste
-      File : Audio_Meter_V4.5.GBP
+Generating : Top Overlay
+      File : Audio_Meter_V4.5.GTO
 
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Top Overlay
 
 
 Used DCodes :
-    D17
-    D20
-    D22
-    D23
-    D25
-    D30
-    D177
-    D178
-    D179
-    D180
-    D181
-    D182
-    D183
-    D184
-    D185
-    D186
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : Audio_Meter_V4.5.GTP
+Generating : Bottom Overlay
+      File : Audio_Meter_V4.5.GBO
 
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
+    D11
+    D12
+    D13
+    D15
+    D340
+    D341
+    D342
+    D343
+    D344
+    D345
+    D346
 *************************************************************
 
 *************************************************************
@@ -110,64 +76,12 @@ Used DCodes :
     D41
     D42
     D43
-    D44
-    D170
-    D171
-    D172
-    D173
-    D174
-    D175
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : Audio_Meter_V4.5.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : Audio_Meter_V4.5.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D17
-    D20
-    D22
-    D23
-    D25
-    D30
-    D170
-    D171
-    D172
-    D173
-    D174
-    D175
-    D177
-    D178
-    D179
-    D180
-    D181
-    D182
-    D183
-    D184
-    D185
-    D186
+    D161
+    D162
+    D163
+    D164
+    D165
+    D166
 *************************************************************
 
 *************************************************************
@@ -182,6 +96,207 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Pad Master
+      File : Audio_Meter_V4.5.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D21
+    D22
+    D24
+    D29
+    D161
+    D162
+    D163
+    D164
+    D165
+    D166
+    D168
+    D169
+    D170
+    D171
+    D172
+    D173
+    D174
+    D175
+    D176
+    D177
+    D178
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Audio_Meter_V4.5.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+    D126
+    D127
+    D128
+    D129
+    D130
+    D131
+    D132
+    D133
+    D134
+    D135
+    D136
+    D137
+    D138
+    D139
+    D140
+    D141
+    D142
+    D143
+    D144
+    D145
+    D146
+    D147
+    D148
+    D149
+    D150
+    D151
+    D152
+    D153
+    D154
+    D155
+    D156
+    D157
+    D158
+    D159
+    D160
+    D161
+    D162
+    D163
+    D164
+    D165
+    D166
+    D167
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Audio_Meter_V4.5.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D46
+    D48
+    D49
+    D51
+    D56
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D329
+    D330
+    D331
+    D332
+    D333
+    D334
+    D335
+    D336
+    D337
+    D338
+    D339
+*************************************************************
+
+*************************************************************
 Generating : Top Solder
       File : Audio_Meter_V4.5.GTS
 
@@ -193,6 +308,7 @@ Generating : Top Solder
 
 
 Used DCodes :
+    D44
     D45
     D46
     D47
@@ -227,8 +343,33 @@ Used DCodes :
     D76
     D77
     D78
-    D79
-    D80
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : Audio_Meter_V4.5.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D347
+    D348
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Audio_Meter_V4.5.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D347
 *************************************************************
 
 *************************************************************
@@ -243,14 +384,22 @@ Generating : Bottom Layer
 Used DCodes :
     D11
     D15
-    D17
-    D20
+    D19
+    D21
     D22
-    D23
-    D25
-    D30
+    D24
+    D29
+    D79
     D81
-    D83
+    D161
+    D162
+    D163
+    D164
+    D165
+    D166
+    D167
+    D168
+    D169
     D170
     D171
     D172
@@ -410,46 +559,13 @@ Used DCodes :
     D326
     D327
     D328
-    D329
-    D330
-    D331
-    D332
-    D333
-    D334
-    D335
-    D336
-    D337
-    D338
-    D339
-    D340
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : Audio_Meter_V4.5.GBO
+Generating : Bottom Paste
+      File : Audio_Meter_V4.5.GBP
 
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D11
-    D12
-    D13
-    D15
-    D351
-    D352
-    D353
-    D354
-    D355
-    D356
-    D357
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : Audio_Meter_V4.5.GBS
-
-    Adding Layer      : Bottom Solder
+    Adding Layer      : Bottom Paste
 
     Adding Layer      : Bottom Layer
 
@@ -457,35 +573,29 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D45
-    D48
-    D50
-    D51
-    D53
-    D58
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D341
-    D342
-    D343
-    D344
-    D345
-    D346
-    D347
-    D348
-    D349
-    D350
+    D19
+    D21
+    D22
+    D24
+    D29
+    D168
+    D169
+    D170
+    D171
+    D172
+    D173
+    D174
+    D175
+    D176
+    D177
+    D178
 *************************************************************
 
 *************************************************************
-Generating : Top Layer
-      File : Audio_Meter_V4.5.GTL
+Generating : Top Paste
+      File : Audio_Meter_V4.5.GTP
+
+    Adding Layer      : Top Paste
 
     Adding Layer      : Top Layer
 
@@ -493,7 +603,6 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D15
     D17
     D18
     D19
@@ -521,129 +630,5 @@ Used DCodes :
     D41
     D42
     D43
-    D44
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-    D106
-    D107
-    D108
-    D109
-    D110
-    D111
-    D112
-    D113
-    D114
-    D115
-    D116
-    D117
-    D118
-    D119
-    D120
-    D121
-    D122
-    D123
-    D124
-    D125
-    D126
-    D127
-    D128
-    D129
-    D130
-    D131
-    D132
-    D133
-    D134
-    D135
-    D136
-    D137
-    D138
-    D139
-    D140
-    D141
-    D142
-    D143
-    D144
-    D145
-    D146
-    D147
-    D148
-    D149
-    D150
-    D151
-    D152
-    D153
-    D154
-    D155
-    D156
-    D157
-    D158
-    D159
-    D160
-    D161
-    D162
-    D163
-    D164
-    D165
-    D166
-    D167
-    D168
-    D169
-    D170
-    D171
-    D172
-    D173
-    D174
-    D175
-    D176
-*************************************************************
-
-*************************************************************
-Generating : Drill Drawing
-      File : Audio_Meter_V4.5.GD1
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Drawing
-
-
-Used DCodes :
-    D358
-    D359
-*************************************************************
-
-*************************************************************
-Generating : Drill Guide
-      File : Audio_Meter_V4.5.GG1
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Guide
-
-
-Used DCodes :
-    D358
 *************************************************************
 

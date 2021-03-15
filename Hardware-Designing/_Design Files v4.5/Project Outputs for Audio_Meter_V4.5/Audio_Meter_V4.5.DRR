@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Audio_Meter_V4.5.PcbDoc   10/14/2020  5:24:46 PM
+NCDrill File Report For: Audio_Meter_V4.5.PcbDoc   12/19/2020  8:35:15 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,14 +7,14 @@ ASCII RoundHoles File : Audio_Meter_V4.5.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      16mil (0.4mm)                                             Round             566       PTH        0.00inch (0.00mm)
+T1      16mil (0.4mm)                                             Round             565       PTH        0.00inch (0.00mm)
 T2      35mil (0.9mm)                                             Round             2         PTH        0.00inch (0.00mm)
 T3      39mil (0.991mm)                                           Round             3         PTH        0.00inch (0.00mm)
 T4      39mil (1mm)                                               Round             2         PTH        0.00inch (0.00mm)
 T5      48mil (1.22mm)                                            Round             9         PTH        0.00inch (0.00mm)
-T6      55mil (1.397mm)                                           Round             4         PTH        0.00inch (0.00mm)
+T6      55mil (1.397mm)                                           Round             2         PTH        0.00inch (0.00mm)
 T7      79mil (2mm)                                               Round             4         NPTH       0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              590
+Totals                                                                              587
 
 Total Processing Time (hh:mm:ss) : 00:00:00

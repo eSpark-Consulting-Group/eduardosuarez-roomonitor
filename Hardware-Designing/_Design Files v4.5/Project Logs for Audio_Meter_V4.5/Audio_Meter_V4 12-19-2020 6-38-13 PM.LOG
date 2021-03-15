@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=VOUT Pin=P18-1
+Removed Pin From Net: NetName=VBUS Pin=SB1-1
+Removed Pin From Net: NetName=VOUT Pin=SB1-2
+Removed Member From Class: ClassName=U_Connector_Section Member=P18
+Removed Member From Class: ClassName=U_Connector_Section Member=SB1
+Added Component: Designator=P21(Through hole pad)
+Added Component: Designator=P22(Through hole pad)
+Added Pin To Net: NetName=AC2 Pin=P21-1
+Added Pin To Net: NetName=AC1 Pin=P21-2
+Added Pin To Net: NetName=VBUS Pin=P22-1
+Added Pin To Net: NetName=GND Pin=P22-2
+Added Member To Class: ClassName=U_Connector_Section Member=Component P21 Through Hole Pad
+Added Member To Class: ClassName=U_Connector_Section Member=Component P22 Through Hole Pad

@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\eSpark Group\Desktop\Final Core Files\Noise Alarm v4.5 - Final\_Design Files v4.5\Audio_Meter_V4.5.PcbDoc
-Date     : 10/14/2020
-Time     : 1:58:58 AM
+PCB File : C:\Users\Waqar\Desktop\_Design Files v4.5\Audio_Meter_V4.5.PcbDoc
+Date     : 12/19/2020
+Time     : 8:16:25 PM
 
 Processing Rule : Clearance Constraint (Gap=7mil) (All),(All)
 Rule Violations :0
@@ -45,4 +45,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:05

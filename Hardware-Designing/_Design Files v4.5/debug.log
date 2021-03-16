@@ -180,3 +180,5 @@
 [0316/112823:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
 [0316/112841:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
 [0316/115909:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0317/000041:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0317/000041:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.

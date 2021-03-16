@@ -55,23 +55,6 @@ GenerateClassCluster=0
 DocumentUniqueId=TPKKMSKX
 
 [Document2]
-DocumentPath=Battery Charging_Section.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=6
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VEDYIWVR
-
-[Document3]
 DocumentPath=Audio_Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +71,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=THSLTRQJ
 
-[Document4]
+[Document3]
 DocumentPath=Sensor_Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -104,6 +87,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TOHLFGSD
+
+[Document4]
+DocumentPath=Source Selector _Circuitry.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=6
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VEDYIWVR
 
 [Document5]
 DocumentPath=Connector_Section.SchDoc

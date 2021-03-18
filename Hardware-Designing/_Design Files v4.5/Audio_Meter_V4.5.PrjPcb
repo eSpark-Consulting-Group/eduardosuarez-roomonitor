@@ -137,7 +137,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=OCDFKJRP
+DocumentUniqueId=KVFDMRGA
 
 [Document7]
 DocumentPath=Audio_Section.SchDoc
@@ -206,6 +206,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RGNBQNWG
+
+[GeneratedDocument1]
+DocumentPath=
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources

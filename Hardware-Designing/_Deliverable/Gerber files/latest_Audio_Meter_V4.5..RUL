@@ -1,5 +1,0 @@
-DRC Rules Export File for PCB: E:\GitHub\RoomMonitor-Eduardo\Hardware-Designing\_Design Files v4.5\latest_Audio_Meter_V4.5..PcbDoc
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=8.00
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.00
-RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

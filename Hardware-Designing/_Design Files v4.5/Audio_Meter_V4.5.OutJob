@@ -2,9 +2,9 @@
 Version=1.0
 
 [PublishSettings]
-OutputFilePath2=C:\Users\iftik\Desktop\Sid\RoomMonitor-Eduardo-sidra\Hardware-Designing\_Design Files v4.5\.PDF
+OutputFilePath2=D:\Github\RoomMonitor-Eduardo\Hardware-Designing\_Design Files v4.5\.PDF
 ReleaseManaged2=0
-OutputBasePath2=C:\Users\iftik\Desktop\Sid\RoomMonitor-Eduardo-sidra\Hardware-Designing\_Design Files v4.5\
+OutputBasePath2=D:\Github\RoomMonitor-Eduardo\Hardware-Designing\_Design Files v4.5\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -81,7 +81,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\iftik\Desktop\Sid\RoomMonitor-Eduardo-sidra\Hardware-Designing\_Design Files v4.5\.PDF
+RelativeOutputPath2=D:\Github\RoomMonitor-Eduardo\Hardware-Designing\_Design Files v4.5\.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1

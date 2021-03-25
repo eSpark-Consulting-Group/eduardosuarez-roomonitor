@@ -4,14 +4,14 @@ E:\GitHub\RoomMonitor-Eduardo\Hardware-Designing\_Design Files v4.5\Project Outp
 ========================================================================================================================
 File Design Information:
 
-Date:       24/03/21
-Time:       11:52
-Revision:   Not in VersionControl
+Date:       25/03/21
+Time:       11:40
+Revision:   e0632fdaf6d377a9c30da1630948798619b2a414
 Variant:    No variations
 Units used: mil
 
 "Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description","Ref-X(mil)","Ref-Y(mil)","Pad-X(mil)","Pad-Y(mil)"
-"R55","10K","TopLayer","Res0402","4275,000mil","3085,000mil","270","RES SMD 10K OHM 5% 1/16W 0402","4275,000mil","3085,000mil","4275,000mil","3103,500mil"
+"R55","10K","TopLayer","RES_0805","4284,000mil","3114,000mil","270","RES SMD 10K OHM 5% 1/2W 0805","4284,000mil","3114,000mil","4284,000mil","3154,000mil"
 "Q3","MMBT2222A-7-F","BottomLayer","SOT-23","5527,000mil","2821,000mil","180","TRANS NPN 40V 0.6A SMD SOT23-3","5527,000mil","2821,000mil","5564,402mil","2781,630mil"
 "R4#","10K","BottomLayer","RES_0805","3965,000mil","1360,000mil","180","RES SMD 10K OHM 5% 1/2W 0805","3965,000mil","1360,000mil","4005,000mil","1360,000mil"
 "J2","SMD Header","TopLayer","SMD_Header","3737,076mil","2010,000mil","90","According to module demension","3737,076mil","2013,000mil","3737,076mil","2405,500mil"

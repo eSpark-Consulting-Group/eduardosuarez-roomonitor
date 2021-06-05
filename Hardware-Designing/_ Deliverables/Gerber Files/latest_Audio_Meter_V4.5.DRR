@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: latest_Audio_Meter_V4.5.PcbDoc   3/25/2021  7:55:15 PM
+NCDrill File Report For: latest_Audio_Meter_V4.5.PcbDoc   5/2/2021  6:06:02 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,12 +7,12 @@ ASCII RoundHoles File : latest_Audio_Meter_V4.5.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      16mil (0.4mm)                                             Round             1177      PTH        0.00inch (0.00mm)
+T1      16mil (0.4mm)                                             Round             840       PTH        0.00inch (0.00mm)
 T2      35mil (0.9mm)                                             Round             2         PTH        0.00inch (0.00mm)
 T3      39mil (0.991mm)                                           Round             3         PTH        0.00inch (0.00mm)
 T4      55mil (1.397mm)                                           Round             2         PTH        0.00inch (0.00mm)
 T5      79mil (2mm)                                               Round             4         PTH        0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              1188
+Totals                                                                              851
 
 Total Processing Time (hh:mm:ss) : 00:00:00
